@@ -21,7 +21,7 @@ This activity is designed to help students learn how to style HTML elements usin
 ## ToDo list ✅
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list. Note: all work to be done in the `styles.css` file.
 
-[ ] In `stlyes.css` set the background color of the `body` to a light gray (`#f0f0f0`):
+[ ] In `styles.css` set the background color of the `body` to a light gray (`#f0f0f0`):
 ```css
 body {
   color: #f0f0f0;
